@@ -8,15 +8,15 @@ This application comes with two package level annotations:
 To mark a package, you have to add a `package-info.java` file at the package root with:
 
 ```java
-@fr.rewrite.back.SharedKernel
-package fr.rewrite.back;
+@fr.rewrite.cli.SharedKernel
+package fr.rewrite.cli;
 
 ```
 
 or:
 
 ```java
-@fr.rewrite.back.BusinessContext
-package fr.rewrite.back;
+@fr.rewrite.cli.BusinessContext
+package fr.rewrite.cli;
 
 ```

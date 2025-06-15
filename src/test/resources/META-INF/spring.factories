@@ -1,1 +1,1 @@
-org.springframework.context.ApplicationListener=fr.rewrite.back.TestRedisManager
+org.springframework.context.ApplicationListener=fr.rewrite.cli.TestRedisManager

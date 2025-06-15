@@ -25,7 +25,7 @@
   </appender>
   -->
 
-  <logger name="fr.rewrite.back" level="INFO" />
+  <logger name="fr.rewrite.cli" level="INFO" />
 
   <logger name="ch.qos.logback" level="WARN" />
   <logger name="com.sun" level="WARN" />

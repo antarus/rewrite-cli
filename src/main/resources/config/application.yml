@@ -1,8 +1,10 @@
 logging:
-  level:
-    fr:
-      rewrite:
-        back: INFO
+  config:
+    classpath: logback-spring.xml
+    level:
+      fr:
+        rewrite:
+          back: INFO
 spring:
   application:
     name: RewriteBack

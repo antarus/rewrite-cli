@@ -1,182 +1,199 @@
 {
-  "actions" : [ {
-    "module" : "init",
-    "date" : "2025-06-15T08:54:42.269959858Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
+  "actions": [
+    {
+      "module": "init",
+      "date": "2025-06-15T08:54:42.269959858Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "application-service-hexagonal-architecture-documentation",
+      "date": "2025-06-15T08:54:42.464859400Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "license-apache",
+      "date": "2025-06-15T08:54:42.507709842Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "maven-java",
+      "date": "2025-06-15T08:54:42.640247872Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "prettier",
+      "date": "2025-06-15T08:54:42.704336413Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "checkstyle",
+      "date": "2025-06-15T08:54:42.764516868Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "gitlab-ci-maven",
+      "date": "2025-06-15T08:54:42.814076031Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "jacoco-with-min-coverage-check",
+      "date": "2025-06-15T08:54:42.873239091Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "java-base",
+      "date": "2025-06-15T08:54:43.035339545Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "maven-wrapper",
+      "date": "2025-06-15T08:54:43.121936945Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "sonar-qube-java-backend",
+      "date": "2025-06-15T08:54:43.209697759Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "spring-boot",
+      "date": "2025-06-15T08:54:43.359126186Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "redis",
+      "date": "2025-06-15T08:54:43.500651565Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml"
+      }
+    },
+    {
+      "module": "logs-spy",
+      "date": "2025-06-15T09:09:26.717764534Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml",
+        "serverPort": 8080
+      }
+    },
+    {
+      "module": "spring-boot-mvc-empty",
+      "date": "2025-06-15T09:09:26.808742432Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml",
+        "serverPort": 8080
+      }
+    },
+    {
+      "module": "spring-boot-undertow",
+      "date": "2025-06-15T09:09:26.923273031Z",
+      "properties": {
+        "packageName": "fr.rewrite.back",
+        "projectName": "Rewrite back",
+        "baseName": "rewriteBack",
+        "endOfLine": "lf",
+        "indentSize": 2,
+        "springConfigurationFormat": "yaml",
+        "serverPort": 8080
+      }
     }
-  }, {
-    "module" : "application-service-hexagonal-architecture-documentation",
-    "date" : "2025-06-15T08:54:42.464859400Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "license-apache",
-    "date" : "2025-06-15T08:54:42.507709842Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "maven-java",
-    "date" : "2025-06-15T08:54:42.640247872Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "prettier",
-    "date" : "2025-06-15T08:54:42.704336413Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "checkstyle",
-    "date" : "2025-06-15T08:54:42.764516868Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "gitlab-ci-maven",
-    "date" : "2025-06-15T08:54:42.814076031Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "jacoco-with-min-coverage-check",
-    "date" : "2025-06-15T08:54:42.873239091Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "java-base",
-    "date" : "2025-06-15T08:54:43.035339545Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "maven-wrapper",
-    "date" : "2025-06-15T08:54:43.121936945Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "sonar-qube-java-backend",
-    "date" : "2025-06-15T08:54:43.209697759Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "spring-boot",
-    "date" : "2025-06-15T08:54:43.359126186Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "redis",
-    "date" : "2025-06-15T08:54:43.500651565Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml"
-    }
-  }, {
-    "module" : "logs-spy",
-    "date" : "2025-06-15T09:09:26.717764534Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml",
-      "serverPort" : 8080
-    }
-  }, {
-    "module" : "spring-boot-mvc-empty",
-    "date" : "2025-06-15T09:09:26.808742432Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml",
-      "serverPort" : 8080
-    }
-  }, {
-    "module" : "spring-boot-undertow",
-    "date" : "2025-06-15T09:09:26.923273031Z",
-    "properties" : {
-      "packageName" : "fr.rewrite.back",
-      "projectName" : "Rewrite back",
-      "baseName" : "rewriteBack",
-      "endOfLine" : "lf",
-      "indentSize" : 2,
-      "springConfigurationFormat" : "yaml",
-      "serverPort" : 8080
-    }
-  } ]
+  ]
 }
